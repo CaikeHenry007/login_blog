@@ -1,5 +1,5 @@
 {
-  "name": "Login",
+  "name": "login",
   "version": "1.0.1",
   "description": "App exemplo em NodeJs com conexão a banco de dados (MySQL)",
   "main": "app.js",
@@ -16,5 +16,6 @@
     "mysql": "^2.18.1",
     "mysql2": "^3.9.1",
     "nodemon": "^3.0.1"
-  }
+  },
+  "keywords": []
 }
